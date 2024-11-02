@@ -6,6 +6,7 @@ import 'package:ecommercecourse/data/datasource/remote/home_data.dart';
 import 'package:ecommercecourse/data/model/itemsmodel.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
+//hello
 
 abstract class HomeController extends SearchMixController {
   initialData();
